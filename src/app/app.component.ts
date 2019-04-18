@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'my-cv';
+  contactName = 'Sean Blessing';
+  contactPhone = '513-600-7096';
+  contactEmail = 'sean@blessingtechnology.com';
 }
